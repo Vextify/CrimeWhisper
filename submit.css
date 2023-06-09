@@ -276,10 +276,6 @@ form button:hover:after{
     width: 100%;
 }
 
-form p{
-    text-align: center;
-}
-
 /* Footer CSS */
 .footer__container{
     background-color: #576066;

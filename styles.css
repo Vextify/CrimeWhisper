@@ -324,7 +324,7 @@
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
     .main__content h1{
         font-size: 2rem;
         margin-top: 3rem;
@@ -345,8 +345,8 @@
     }
 
     #main__img{
-        height: 80%;
-        width: 80%;
+        height: 100%;
+        width: 100%;
     }
 
 }
